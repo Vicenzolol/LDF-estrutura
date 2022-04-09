@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1557514213 source:c:\users\2279018\documents\lfd\fila.c
+	<stdio.h>
+	"Fila.h"
+
+1557514922 c:\users\2279018\documents\lfd\fila.h
+
+1557515098 source:c:\users\2279018\documents\lfd\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+	"Pilha.h"
+
+1557514929 c:\users\2279018\documents\lfd\pilha.h
+
+1557514977 source:c:\users\2279018\documents\lfd\pilha.c
+	<stdio.h>
+	"Pilha.h"
+
